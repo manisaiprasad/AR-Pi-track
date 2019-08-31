@@ -8,4 +8,7 @@ Steps to Dive into the AR experience:
 1. Scan the QR-Code or just visit our shortern url: [AR-Pi0](http://bit.ly/sparkarbuild)
 2. User will be redirected to Facebook Camera to enjoy the AR immersive experience that too without any hassle of installation. All User need is the Facebook app installeed.
 
+[Medium](https://link.medium.com/kLrcLXO1BZ)
+[Youtube](https://www.youtube.com/watch?v=FrIwxU_Zrhs)
+
 Contributors: Anurag Singh, Mani Sai Prasad, Praveen K H
