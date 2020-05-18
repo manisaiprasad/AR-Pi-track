@@ -11,7 +11,7 @@ Steps to Dive into the AR experience:
 
 
 [Medium](https://link.medium.com/kLrcLXO1BZ)
-[Youtube](https://www.youtube.com/watch?v=FrIwxU_Zrhs)
+[Youtube](https://youtu.be/zLMMqsWv-G8)
 
 Contributors: Anurag Singh, Mani Sai Prasad, Praveen K H
 
